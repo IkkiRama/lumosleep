@@ -183,7 +183,7 @@ const Navbar = () => {
             </>
           ) : (
             <CustomButton
-              text="Register Now"
+              text="Daftar Sekarang"
               path="/register"
               bgcolor="bg-white"
               bordercolor="border-secondaryColor"
